@@ -1,0 +1,12 @@
+alembic
+fastapi[all]
+mypy
+pydantic-settings
+passlib[bcrypt]
+psycopg2
+pytest
+python-jose[cryptography]
+pytailwindcss
+requests
+ruff
+SQLAlchemy
